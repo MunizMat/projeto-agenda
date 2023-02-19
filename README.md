@@ -18,4 +18,4 @@
   <li><p><strong>Bootstrap</strong></p></li>
 </ul>
 
-<a href="http://35.247.232.174/">Link para acessar o projeto!</a>
+<a href="http://35.247.232.174/" target="_blank" rel="noopener noreferrer">Link para acessar o projeto!</a>
